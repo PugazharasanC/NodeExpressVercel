@@ -26,3 +26,27 @@ In order to host your backend application on Vercel. You need to have vercel con
 }
 
 ```
+
+Once its done, Kindly add the below json value to your package.json file.
+
+
+```
+"engines": {
+    "node" : "14.x"
+  }
+```
+
+
+Here you go. Now your project is all set and ready to host it on Vercel.
+
+###Do not forget to push your project on github.
+
+Now open your browser and goto [Vercel.com](https://vercel.com/)
+
+*Login
+*Connect your github profile
+*import your project
+*add env variables and values
+*Deploy
+
+and Boooooooooom.......... Deployed.
