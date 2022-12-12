@@ -43,10 +43,10 @@ Here you go. Now your project is all set and ready to host it on Vercel.
 
 Now open your browser and goto [Vercel.com](https://vercel.com/)
 
-*Login
-*Connect your github profile
-*import your project
-*add env variables and values
-*Deploy
+* Login
+* Connect your github profile
+* import your project
+* add env variables and values
+* Deploy
 
 and Boooooooooom.......... Deployed.
