@@ -12,6 +12,6 @@ app.get("/:name",(req,res)=>{
     const {name} = req.params;
     res.status(200).send(`name: ${name}`)
 })
-app.get("/*",(req,res)=>{
-    res.send(`404`)
+app.get("/",(req,res)=>{
+    res.send(`App is working fine`)
 })
