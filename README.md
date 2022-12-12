@@ -49,4 +49,4 @@ Now open your browser and goto [Vercel.com](https://vercel.com/)
 * add env variables and values
 * Deploy
 
-and Boooooooooom.......... Deployed.
+and Boooooooooom.......... Your site is deployed.
