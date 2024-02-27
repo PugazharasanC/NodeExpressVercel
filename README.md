@@ -38,7 +38,7 @@ Ensure your Express.js project is set up correctly locally. Create a `.gitignore
 
    ```json
    "engines": {
-       "node" : "21.x"
+       "node" : "18.x"
    }
    ```
 
