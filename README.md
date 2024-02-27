@@ -85,4 +85,4 @@ If you are interested in hosting a React project on Vercel, check out the guide 
 
 If you found this guide helpful, consider starring this repository! ⭐️
 
-For more guides and content like this, follow my GitHub profile.
+For more guides and content like this, follow [my GitHub profile](https://www.github.com/PugazharasanC).
